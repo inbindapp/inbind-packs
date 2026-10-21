@@ -1,6 +1,6 @@
 # Inbind packs
 
-Workspace templates for Inbind. The app's "Start from template" lists the top-level folders of this repository that contain a `pack.json`, and copies the chosen folder into a new workspace.
+Packs for Inbind: ready-made workspaces. The app's "Start from a pack" lists the top-level folders of this repository that contain a `pack.json`, and copies the chosen pack into a new workspace.
 
 A pack is one top-level folder with this layout:
 
