@@ -10,7 +10,7 @@ A pack is one top-level folder with this layout:
   AGENTS.md        workspace instructions
   Binders/         starter Binder pages (index.md first)
   Notes/           starter notes structure
-  .claude/skills/  optional pack-specific skills
+  .agents/skills/  optional pack-specific skills
   ...              any other folders the pack needs (for example Content/)
 ```
 
