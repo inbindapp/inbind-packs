@@ -1,6 +1,6 @@
-# Content marketing workspace
+# Website content workspace
 
-This workspace produces marketing content. The people you help are writers and marketers, so use plain language and avoid developer jargon.
+This workspace produces content for the organization's website: blog posts, guides, comparisons, case studies and other pages. The people you help are writers and marketers, so use plain language and avoid developer jargon.
 
 ## Goals
 
@@ -29,7 +29,7 @@ A note's `binder` frontmatter field lists the sections it is relevant to, using 
 
 ## Onboarding
 
-The `binders` skill's setup creates the onboarding questionnaire in `Notes/Onboarding/` when the user clicks "Set up your Binders" or asks to get started. It uses the content-marketing questions, one page per Binder page. Then point the user to the questionnaire, offer to pre-fill answers from their sources (documents, website, repo) and to interview them in chat, and update the Binders from the answers.
+The `binders` skill's setup creates the onboarding questionnaire in `Notes/Onboarding/` when the user clicks "Set up your Binders" or asks to get started. It uses the questions from the skill's website-content example, one page per Binder page. Then point the user to the questionnaire, offer to pre-fill answers from their sources (documents, website, repo) and to interview them in chat, and update the Binders from the answers.
 
 ## On-brand content
 
